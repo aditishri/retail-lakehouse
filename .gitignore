@@ -1,0 +1,11 @@
+*.crc
+
+.venv/
+__pycache__/
+*.pyc
+
+data/
+checkpoints/
+spark_metadata/
+
+.env
